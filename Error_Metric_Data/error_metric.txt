@@ -1,0 +1,1 @@
+This directory contains Error Metrics of the Five different NN executed on 10 runs
